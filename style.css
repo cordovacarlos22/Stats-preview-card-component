@@ -82,6 +82,7 @@ p{
 }
 
 p.info{
+    color: var(--White);
     display: inline-block;
     text-align: center;
     margin: 50px;
